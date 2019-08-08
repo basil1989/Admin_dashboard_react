@@ -1,4 +1,4 @@
-# React admin
+# Admin dashboard in react
 
 React admin Dashboard is a beautiful, multi-purpose admin dashboard which is with React, Redux & Bootstrap and SCSS.
 
@@ -15,8 +15,8 @@ This package includes:
 _Development_
 
 ```
-git clone https://github.com/rajibchandrakarmaker/react-admin.git
-cd react-admin
+git clone https://github.com/basil1989/admin_dashboard_react.git
+cd admin_dashboard_react
 npm install
 npm start
 ```
